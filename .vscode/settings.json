@@ -1,0 +1,11 @@
+{
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    },
+    "rust-analyzer.inlayHints.typeHints": false,
+    "rust-analyzer.inlayHints.parameterHints": false,
+    "rust-analyzer.inlayHints.chainingHints": false
+}
